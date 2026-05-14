@@ -1,0 +1,7 @@
+{
+  "rules": [
+    { "pattern": ".github/workflows/", "risk": "high" },
+    { "pattern": "Dockerfile", "risk": "high" },
+    { "pattern": "docs/", "risk": "low" }
+  ]
+}

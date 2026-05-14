@@ -1,0 +1,6 @@
+{
+  "automations": [
+    { "name": "RepoPilot AI PR Reviewer", "trigger": "pull_request", "risk": "medium" },
+    { "name": "Coverage Gate", "trigger": "pull_request", "risk": "medium" }
+  ]
+}

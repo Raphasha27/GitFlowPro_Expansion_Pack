@@ -1,0 +1,6 @@
+{
+  "labels": [
+    { "name": "type:bug", "color": "d73a4a" },
+    { "name": "risk:high", "color": "b60205" }
+  ]
+}
